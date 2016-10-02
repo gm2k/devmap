@@ -1,7 +1,7 @@
 # Карта развития веб-разработчика
 
 **Каждый уважающий себя разработчик должен знать:**
-- [Книги](sections/books.md)
++ [Книги](sections/books.md)
 - [Английский язык](sections/english.md)
 - [Архитектуру компьютера](sections/architecture.md)
 - [Linux, командная строка Bash](sections/linux.md)
